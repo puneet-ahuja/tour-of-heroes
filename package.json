@@ -1,0 +1,19 @@
+{
+  "name": "angular-tour-of-heroes",
+  "version": "1.0.0",
+  "description": "'This is the basic application for practice from angular documentation'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneet-ahuja/tour-of-heroes.git"
+  },
+  "author": "Puneet Ahuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneet-ahuja/tour-of-heroes/issues"
+  },
+  "homepage": "https://github.com/puneet-ahuja/tour-of-heroes#readme"
+}
